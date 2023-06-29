@@ -21,7 +21,6 @@ class Solution {
         q.add(new int[]{I, J, 0, 0});
         while(!q.isEmpty()) {
             var v = q.poll();
-            System.out.println(Arrays.toString(v));
             if(v[2] == key) return v[3];
             for(var d : dir) {
                 int x = d[0] + v[0], y = d[1] + v[1];
