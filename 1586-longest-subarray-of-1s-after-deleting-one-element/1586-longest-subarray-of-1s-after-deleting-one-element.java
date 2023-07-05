@@ -4,7 +4,6 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         for(int i : nums) sb.append(i);
         String[] s = sb.toString().split("0");
-        System.out.println(Arrays.toString(s));
         if(s.length == 1) return s[0].length() == 1 ? 1 : s[0].length() - 1;
         int ans = 0;
         for(int i = 0; i<s.length - 1; i++) {
