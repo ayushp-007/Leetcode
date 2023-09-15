@@ -1,17 +1,29 @@
 import static java.lang.Math.*;
 class DSU {
-    int[] parent;
+    int[] parent, size;
     DSU(int n) {
         parent = new int[n];
-        for(int i = 0; i < n; i++) parent[i] = i;
+        size = new int[n];
+        for(int i = 0; i < n; i++) {
+            parent[i] = i;
+            size[i] = 1;
+        }
     }
     int find(int x) {
         return parent[x] == x ? parent[x] : find(parent[x]);
     }
-    void union(int u, int v) {
-        int a = find(u);
-        int b = find(v);
-        parent[a] = b;
+    void union(int a, int b) {
+        int u = find(a);
+        int v = find(b);
+        if(u == v) return;
+        if(size[u] < size[v]) {
+            parent[u] = v;
+            size[v] += size[u];
+        }
+        else {
+            parent[v] = u;
+            size[u] += size[v];
+        }
     }
     boolean connected(int u, int v) {
         return find(u) == find(v);
