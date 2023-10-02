@@ -1,6 +1,5 @@
 class Solution {
     public boolean winnerOfGame(String colors) {
-        if(colors.length() <= 2) return false;
         char[] c = colors.toCharArray();
         int n = c.length, cntA = 0, cntB = 0;
         for(int i = 1; i < n - 1; i++) {
