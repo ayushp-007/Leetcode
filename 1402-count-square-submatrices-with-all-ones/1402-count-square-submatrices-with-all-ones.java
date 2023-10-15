@@ -19,7 +19,6 @@ class Solution {
                 }
             }
         }
-        // for(var i : a) System.out.println(Arrays.toString(i));
         return cnt;
     }
 }
