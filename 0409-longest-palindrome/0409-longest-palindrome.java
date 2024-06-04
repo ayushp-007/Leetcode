@@ -1,15 +1,15 @@
 class Solution {
     public int longestPalindrome(String s) {
-        Map<Character, Integer> map = new HashMap<>();
-        for(char c : s.toCharArray()) map.merge(c, 1, Integer :: sum);
-        int ans = 0, check = 0;
-        for(int i : map.values()) {
+        int[] a = new int[58];
+        for(char c : s.toCharArray()) a[c - 'A']++;
+        int ans = 0, chk = 0;
+        for(int i : a) {
             if(i % 2 == 0) ans += i;
-            else  {
+            else {
                 ans += i - 1;
-                check = 1;
+                chk = 1;
             }
         }
-        return ans + check;
+        return ans + chk;
     }
 }
