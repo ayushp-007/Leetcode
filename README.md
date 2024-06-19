@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushp-007/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/ayushp-007/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ayushp-007/Leetcode/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushp-007/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Sorting
 |  |
 | ------- |
@@ -80,3 +81,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/ayushp-007/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushp-007/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
