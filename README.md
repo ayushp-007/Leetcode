@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/ayushp-007/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ayushp-007/Leetcode/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushp-007/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/ayushp-007/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Sorting
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/ayushp-007/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/ayushp-007/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ayushp-007/Leetcode/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/ayushp-007/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Trie
 |  |
 | ------- |
@@ -82,3 +84,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/ayushp-007/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushp-007/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/ayushp-007/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
