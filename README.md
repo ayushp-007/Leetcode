@@ -225,10 +225,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/ayushp-007/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2846-robot-collisions](https://github.com/ayushp-007/Leetcode/tree/master/2846-robot-collisions) |
 ## String
 |  |
 | ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/ayushp-007/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayushp-007/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/ayushp-007/Leetcode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayushp-007/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushp-007/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/ayushp-007/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/ayushp-007/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Shortest Path
 |  |
 | ------- |
