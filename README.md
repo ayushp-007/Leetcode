@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/ayushp-007/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayushp-007/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
