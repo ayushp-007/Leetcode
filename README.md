@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushp-007/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2554-minimum-total-distance-traveled](https://github.com/ayushp-007/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayushp-007/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushp-007/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayushp-007/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ayushp-007/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/ayushp-007/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushp-007/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayushp-007/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ayushp-007/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushp-007/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/ayushp-007/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushp-007/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/ayushp-007/Leetcode/tree/master/2502-sort-the-people) |
 | [2554-minimum-total-distance-traveled](https://github.com/ayushp-007/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayushp-007/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushp-007/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayushp-007/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/ayushp-007/Leetcode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushp-007/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayushp-007/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/ayushp-007/Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayushp-007/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushp-007/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushp-007/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
@@ -478,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ayushp-007/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ayushp-007/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushp-007/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushp-007/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayushp-007/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ayushp-007/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Strongly Connected Component
