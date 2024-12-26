@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ayushp-007/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/ayushp-007/Leetcode/tree/master/0179-largest-number) |
+| [0494-target-sum](https://github.com/ayushp-007/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/ayushp-007/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayushp-007/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayushp-007/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayushp-007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0494-target-sum](https://github.com/ayushp-007/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/ayushp-007/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ayushp-007/Leetcode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/ayushp-007/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ayushp-007/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/ayushp-007/Leetcode/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
