@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ayushp-007/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ayushp-007/Leetcode/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayushp-007/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2793-count-the-number-of-complete-components](https://github.com/ayushp-007/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ayushp-007/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/ayushp-007/Leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ayushp-007/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ayushp-007/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/ayushp-007/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ayushp-007/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ayushp-007/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ayushp-007/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ayushp-007/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/ayushp-007/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/ayushp-007/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayushp-007/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ayushp-007/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/ayushp-007/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ayushp-007/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/ayushp-007/Leetcode/tree/master/2035-count-sub-islands) |
+| [2793-count-the-number-of-complete-components](https://github.com/ayushp-007/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Array
 |  |
 | ------- |
