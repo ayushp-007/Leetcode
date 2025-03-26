@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/ayushp-007/Leetcode/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ayushp-007/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ayushp-007/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayushp-007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ayushp-007/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayushp-007/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushp-007/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ayushp-007/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushp-007/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ayushp-007/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayushp-007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ayushp-007/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/ayushp-007/Leetcode/tree/master/2502-sort-the-people) |
 | [2554-minimum-total-distance-traveled](https://github.com/ayushp-007/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/ayushp-007/Leetcode/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ayushp-007/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ayushp-007/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayushp-007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ayushp-007/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/ayushp-007/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ayushp-007/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -416,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ayushp-007/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayushp-007/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/ayushp-007/Leetcode/tree/master/2035-count-sub-islands) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayushp-007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ayushp-007/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ayushp-007/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ayushp-007/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
