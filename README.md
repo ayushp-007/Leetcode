@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/ayushp-007/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ayushp-007/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ayushp-007/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/ayushp-007/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -647,4 +648,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/ayushp-007/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayushp-007/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/ayushp-007/Leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
