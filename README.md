@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ayushp-007/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ayushp-007/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/ayushp-007/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/ayushp-007/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushp-007/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ayushp-007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushp-007/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3548-find-the-count-of-good-integers](https://github.com/ayushp-007/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -662,8 +664,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/ayushp-007/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/ayushp-007/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ayushp-007/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/ayushp-007/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
