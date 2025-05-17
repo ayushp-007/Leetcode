@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ayushp-007/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/ayushp-007/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/ayushp-007/Leetcode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/ayushp-007/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/ayushp-007/Leetcode/tree/master/0494-target-sum) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayushp-007/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/ayushp-007/Leetcode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/ayushp-007/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/ayushp-007/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayushp-007/Leetcode/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/ayushp-007/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayushp-007/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ayushp-007/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
