@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/ayushp-007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayushp-007/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ayushp-007/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3647-zero-array-transformation-iii](https://github.com/ayushp-007/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-put-marbles-in-bags](https://github.com/ayushp-007/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/ayushp-007/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushp-007/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/ayushp-007/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/ayushp-007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushp-007/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ayushp-007/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3647-zero-array-transformation-iii](https://github.com/ayushp-007/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -493,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-put-marbles-in-bags](https://github.com/ayushp-007/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ayushp-007/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/ayushp-007/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [3647-zero-array-transformation-iii](https://github.com/ayushp-007/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -619,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushp-007/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/ayushp-007/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ayushp-007/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3647-zero-array-transformation-iii](https://github.com/ayushp-007/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Game Theory
 |  |
 | ------- |
